@@ -17,7 +17,7 @@ public class MyDrawing extends JPanel {
 		cat.draw(g, 100, 100);
 	}
 	
-	/**
+	/**git s
 	 * @param args
 	 */
 	public static void main(String[] args) {
